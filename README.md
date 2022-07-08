@@ -4,4 +4,4 @@ Road Traffic Accident Analysis using various labels like State-Wise , Year-Wise 
 
 Our Analysis depicts most common factors and their impact on high number of road accidents
 
-## This project helps to government , traffic police and in general public and everyone who wants to utilize it so that, percentage of accidents minimizes
+# This project helps to government , traffic police and in general public and everyone who wants to utilize it so that, percentage of accidents minimizes
